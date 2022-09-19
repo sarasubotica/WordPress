@@ -1,0 +1,289 @@
+
+11-08-2022 13:23:40 [sdobric.wppsbootcamp.com][info] Parent plugin start installation!
+11-08-2022 13:23:40 [sdobric.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+11-08-2022 13:23:40 [sdobric.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+11-08-2022 13:31:46 [sdobric.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/sdobric/public_html/digitel/wp-content/uploads/wio_backup)
+-------------------------------
+11-08-2022 13:32:27 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:27 [sdobric.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/sdobric/public_html/digitel/wp-content/uploads/wio_backup/2022/08)
+11-08-2022 13:32:27 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/logo.png) to a remote server (server_1).
+11-08-2022 13:32:27 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:27 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/logo-150x106.png) to a remote server (server_1).
+11-08-2022 13:32:27 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:27 [sdobric.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;9&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:5081,&quot;final_size&quot;:3723,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:2283,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224747}
+11-08-2022 13:32:27 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+11-08-2022 13:32:27 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:27 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Hero-image.jpg) to a remote server (server_1).
+11-08-2022 13:32:28 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:28 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Hero-image-150x150.jpg) to a remote server (server_1).
+11-08-2022 13:32:28 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:28 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Hero-image-300x94.jpg) to a remote server (server_1).
+11-08-2022 13:32:28 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:28 [sdobric.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;25&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:219701,&quot;final_size&quot;:111724,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:207358,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224748}
+11-08-2022 13:32:28 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+11-08-2022 13:32:28 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:28 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/High-Volume-sampler-image.png) to a remote server (server_1).
+11-08-2022 13:32:29 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:29 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/High-Volume-sampler-image-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:29 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:29 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/High-Volume-sampler-image-282x300.png) to a remote server (server_1).
+11-08-2022 13:32:29 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:29 [sdobric.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;63&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:364554,&quot;final_size&quot;:126955,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:243590,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224749}
+11-08-2022 13:32:29 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+11-08-2022 13:32:30 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:30 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-1.png) to a remote server (server_1).
+11-08-2022 13:32:30 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:30 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-1-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:30 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:30 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-1-238x300.png) to a remote server (server_1).
+11-08-2022 13:32:30 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:31 [sdobric.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;64&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:239503,&quot;final_size&quot;:97740,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:145091,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224750}
+11-08-2022 13:32:31 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+11-08-2022 13:32:31 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:31 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-2.png) to a remote server (server_1).
+11-08-2022 13:32:31 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:31 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-2-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:31 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:31 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-2-238x300.png) to a remote server (server_1).
+11-08-2022 13:32:32 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:32 [sdobric.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;65&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:239109,&quot;final_size&quot;:94431,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:145722,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224752}
+11-08-2022 13:32:32 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+11-08-2022 13:32:32 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:32 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-3.png) to a remote server (server_1).
+11-08-2022 13:32:32 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:32 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-3-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:32 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:32 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-3-238x300.png) to a remote server (server_1).
+11-08-2022 13:32:33 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:33 [sdobric.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;66&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:230697,&quot;final_size&quot;:98493,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:138600,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224753}
+11-08-2022 13:32:33 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+11-08-2022 13:32:33 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:33 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Low-Volume-sampler-image.png) to a remote server (server_1).
+11-08-2022 13:32:33 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:33 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Low-Volume-sampler-image-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:34 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:34 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Low-Volume-sampler-image-282x300.png) to a remote server (server_1).
+11-08-2022 13:32:34 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:34 [sdobric.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;67&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:321883,&quot;final_size&quot;:124845,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:212855,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224754}
+11-08-2022 13:32:34 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+11-08-2022 13:32:34 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:34 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Wet-Only-Sampler-image.png) to a remote server (server_1).
+11-08-2022 13:32:34 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:34 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Wet-Only-Sampler-image-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:34 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:34 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Wet-Only-Sampler-image-282x300.png) to a remote server (server_1).
+11-08-2022 13:32:35 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:35 [sdobric.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;68&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:272088,&quot;final_size&quot;:130285,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:178424,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224755}
+11-08-2022 13:32:35 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+11-08-2022 13:32:35 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:36 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/background-image.png) to a remote server (server_1).
+11-08-2022 13:32:36 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:36 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/background-image-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:36 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:36 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/background-image-300x77.png) to a remote server (server_1).
+11-08-2022 13:32:37 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:37 [sdobric.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;271&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:548218,&quot;final_size&quot;:372939,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:455571,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224757}
+11-08-2022 13:32:37 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+11-08-2022 13:32:37 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:37 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Barbara.png) to a remote server (server_1).
+11-08-2022 13:32:37 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:38 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Barbara-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:38 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:38 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Barbara-223x300.png) to a remote server (server_1).
+11-08-2022 13:32:38 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:38 [sdobric.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;288&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:294295,&quot;final_size&quot;:86961,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:147636,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224758}
+11-08-2022 13:32:38 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+11-08-2022 13:32:39 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:39 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Jenny.png) to a remote server (server_1).
+11-08-2022 13:32:39 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:39 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Jenny-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:39 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:39 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Jenny-223x300.png) to a remote server (server_1).
+11-08-2022 13:32:39 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:39 [sdobric.wppsbootcamp.com][debug] New queue created #11, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;289&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:253754,&quot;final_size&quot;:87992,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:126835,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224759}
+11-08-2022 13:32:39 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+11-08-2022 13:32:40 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:40 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/John.png) to a remote server (server_1).
+11-08-2022 13:32:40 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:40 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/John-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:40 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:40 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/John-223x300.png) to a remote server (server_1).
+11-08-2022 13:32:40 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:40 [sdobric.wppsbootcamp.com][debug] New queue created #12, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;290&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:277509,&quot;final_size&quot;:86669,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:138776,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224760}
+11-08-2022 13:32:40 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+11-08-2022 13:32:41 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:41 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Regula.png) to a remote server (server_1).
+11-08-2022 13:32:41 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:41 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Regula-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:41 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:41 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Regula-223x300.png) to a remote server (server_1).
+11-08-2022 13:32:42 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:42 [sdobric.wppsbootcamp.com][debug] New queue created #13, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;291&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:263653,&quot;final_size&quot;:85539,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:130912,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224762}
+11-08-2022 13:32:42 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+11-08-2022 13:32:42 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:42 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Switzerland-background-box.png) to a remote server (server_1).
+11-08-2022 13:32:42 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:42 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Switzerland-background-box-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:42 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:42 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Switzerland-background-box-300x204.png) to a remote server (server_1).
+11-08-2022 13:32:43 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:43 [sdobric.wppsbootcamp.com][debug] New queue created #14, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;296&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:195118,&quot;final_size&quot;:123506,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:154883,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224763}
+11-08-2022 13:32:43 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+11-08-2022 13:32:43 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:43 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Austria-background-box.png) to a remote server (server_1).
+11-08-2022 13:32:43 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:44 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Austria-background-box-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:44 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:44 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Austria-background-box-300x204.png) to a remote server (server_1).
+11-08-2022 13:32:44 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:44 [sdobric.wppsbootcamp.com][debug] New queue created #15, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;297&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:203963,&quot;final_size&quot;:131642,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:157389,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224764}
+11-08-2022 13:32:44 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+11-08-2022 13:32:44 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:44 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Arctic-Century-campaign-image.png) to a remote server (server_1).
+11-08-2022 13:32:44 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:45 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Arctic-Century-campaign-image-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:45 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:45 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Arctic-Century-campaign-image-300x227.png) to a remote server (server_1).
+11-08-2022 13:32:45 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:45 [sdobric.wppsbootcamp.com][debug] New queue created #16, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;419&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:397302,&quot;final_size&quot;:109348,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:242545,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224765}
+11-08-2022 13:32:45 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+11-08-2022 13:32:46 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:46 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-1-1.png) to a remote server (server_1).
+11-08-2022 13:32:46 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:46 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-1-1-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:46 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:46 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-1-1-255x300.png) to a remote server (server_1).
+11-08-2022 13:32:46 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:46 [sdobric.wppsbootcamp.com][debug] New queue created #17, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;420&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:301666,&quot;final_size&quot;:110944,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:164904,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224766}
+11-08-2022 13:32:46 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+11-08-2022 13:32:47 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:47 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-2-1.png) to a remote server (server_1).
+11-08-2022 13:32:47 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:47 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-2-1-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:47 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:48 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-2-1-255x300.png) to a remote server (server_1).
+11-08-2022 13:32:48 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:48 [sdobric.wppsbootcamp.com][debug] New queue created #18, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;421&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:341402,&quot;final_size&quot;:107197,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:194138,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224768}
+11-08-2022 13:32:48 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+11-08-2022 13:32:48 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:48 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-3-1.png) to a remote server (server_1).
+11-08-2022 13:32:49 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:49 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-3-1-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:49 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:49 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-3-1-255x300.png) to a remote server (server_1).
+11-08-2022 13:32:49 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:49 [sdobric.wppsbootcamp.com][debug] New queue created #19, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;422&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:344610,&quot;final_size&quot;:102189,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:196750,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224769}
+11-08-2022 13:32:49 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+11-08-2022 13:32:50 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:50 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-4.png) to a remote server (server_1).
+11-08-2022 13:32:50 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:50 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-4-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:50 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:50 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-4-255x300.png) to a remote server (server_1).
+11-08-2022 13:32:50 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:50 [sdobric.wppsbootcamp.com][debug] New queue created #20, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;423&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:157295,&quot;final_size&quot;:100243,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:43565,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224770}
+11-08-2022 13:32:50 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+11-08-2022 13:32:51 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:51 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-5.png) to a remote server (server_1).
+11-08-2022 13:32:51 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:51 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-5-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:52 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:52 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-5-255x300.png) to a remote server (server_1).
+11-08-2022 13:32:52 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:52 [sdobric.wppsbootcamp.com][debug] New queue created #21, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;424&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:436511,&quot;final_size&quot;:124967,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:243429,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224772}
+11-08-2022 13:32:52 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+11-08-2022 13:32:52 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:52 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-6.png) to a remote server (server_1).
+11-08-2022 13:32:53 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:53 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-6-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:53 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:53 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/image-6-255x300.png) to a remote server (server_1).
+11-08-2022 13:32:53 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:53 [sdobric.wppsbootcamp.com][debug] New queue created #22, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;425&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:406940,&quot;final_size&quot;:141873,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:229498,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224773}
+11-08-2022 13:32:53 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+11-08-2022 13:32:54 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:54 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Measuring-station-Greece-image.png) to a remote server (server_1).
+11-08-2022 13:32:54 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:54 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Measuring-station-Greece-image-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:54 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:54 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/Measuring-station-Greece-image-300x227.png) to a remote server (server_1).
+11-08-2022 13:32:55 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:55 [sdobric.wppsbootcamp.com][debug] New queue created #23, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;426&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:363338,&quot;final_size&quot;:129700,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:215912,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224775}
+11-08-2022 13:32:55 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+11-08-2022 13:32:55 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:55 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/NILU-Measuring-station-image.png) to a remote server (server_1).
+11-08-2022 13:32:56 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:56 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/NILU-Measuring-station-image-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:56 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:56 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/NILU-Measuring-station-image-300x227.png) to a remote server (server_1).
+11-08-2022 13:32:56 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:56 [sdobric.wppsbootcamp.com][debug] New queue created #24, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;427&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:440543,&quot;final_size&quot;:130193,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:277532,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224776}
+11-08-2022 13:32:56 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+11-08-2022 13:32:57 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:57 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/workers-image.png) to a remote server (server_1).
+11-08-2022 13:32:58 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:58 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/workers-image-150x150.png) to a remote server (server_1).
+11-08-2022 13:32:58 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:58 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/workers-image-300x190.png) to a remote server (server_1).
+11-08-2022 13:32:58 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:58 [sdobric.wppsbootcamp.com][debug] New queue created #25, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;588&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:929011,&quot;final_size&quot;:256730,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:745085,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224778}
+11-08-2022 13:32:58 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+11-08-2022 13:32:59 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:59 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/john-doe.jpg) to a remote server (server_1).
+11-08-2022 13:32:59 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:59 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/john-doe-150x150.jpg) to a remote server (server_1).
+11-08-2022 13:32:59 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:59 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/john-doe-300x300.jpg) to a remote server (server_1).
+11-08-2022 13:32:59 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:32:59 [sdobric.wppsbootcamp.com][debug] New queue created #26, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;598&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:49324,&quot;final_size&quot;:37981,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:33065,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224779}
+11-08-2022 13:32:59 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+11-08-2022 13:32:59 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:32:59 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/speaker-1-v2.jpg) to a remote server (server_1).
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/speaker-1-v2-150x150.jpg) to a remote server (server_1).
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/speaker-1-v2-300x300.jpg) to a remote server (server_1).
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][debug] New queue created #27, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;599&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:60342,&quot;final_size&quot;:60342,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:45777,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224780}
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/team-1.jpg) to a remote server (server_1).
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/team-1-150x150.jpg) to a remote server (server_1).
+11-08-2022 13:33:00 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:33:01 [sdobric.wppsbootcamp.com][info] Preparing to upload a file (/home/sdobric/public_html/digitel/wp-content/uploads/2022/08/team-1-300x300.jpg) to a remote server (server_1).
+11-08-2022 13:33:01 [sdobric.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+11-08-2022 13:33:01 [sdobric.wppsbootcamp.com][debug] New queue created #28, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;600&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:46159,&quot;final_size&quot;:46159,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:33143,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1660224781}
+11-08-2022 13:33:01 [sdobric.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
